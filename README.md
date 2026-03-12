@@ -14,9 +14,7 @@ This repository is a public implementation of the paper-core PRISM workflow:
 
 Plot-specific and exploratory scripts from the original private workspace are intentionally excluded.
 
-## Private data requirements
-
-All cohort tables are private and must not be added to this repository.
+## Data requirements
 
 Prepare a local manifest from `configs/templates/data_manifest.example.yaml`. The manifest should point to your private files by logical name only. Tracked config files in this repo must stay relative-path only.
 
