@@ -1,4 +1,4 @@
-# PRISM Public Code
+# PRISM
 
 ## What this repository contains
 
