@@ -1,0 +1,8 @@
+data_root: private_data
+files:
+  observed_proteome_2002: proteomes/observed_2002.csv
+  observed_proteome_2007: proteomes/observed_2007.csv
+  observed_proteome_2012: proteomes/observed_2012.csv
+  observed_proteome_2020: proteomes/observed_2020.csv
+  clinical_label_table: clinical/clinical_labels.csv
+  protein_annotation_table: annotations/protein_annotations.csv
