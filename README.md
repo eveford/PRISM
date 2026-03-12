@@ -75,9 +75,3 @@ python scripts/run_disease_benchmark.py \
   --generated-manifest work/benchmark_reconstruction/prism/prism_generated_manifest.json \
   --output-dir work/benchmark_disease
 ```
-
-7. Audit the public repo tree before upload:
-
-```bash
-python scripts/audit_public_repo.py
-```
