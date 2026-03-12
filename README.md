@@ -6,13 +6,11 @@ This repository is a public implementation of the paper-core PRISM workflow:
 
 - proteome normalization
 - initial key-protein candidate selection
-- iterative sparse pruning to a 64-protein panel
+- iterative sparse pruning to a sparse-protein panel
 - PRISM reconstruction training and ablation benchmarking
 - age benchmarking with LassoCV
 - disease-risk benchmarking with per-disease MLP models
 - a minimal protein annotation summary module
-
-Plot-specific and exploratory scripts from the original private workspace are intentionally excluded.
 
 ## Data requirements
 
